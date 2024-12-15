@@ -14,7 +14,7 @@
 
 Amazon アソシエイトプログラムというものを Amazon は提供しています。手続きや審査条件などはありますが、登録後は専用の紹介リンクを作成することができます。
 
-たとえば、拙書[『ローカル LLM 実践入門』](https://amzn.to/4iBF9zy)では下記のリンクが紹介リンクになります。
+たとえば、拙書『[ローカル LLM 実践入門]』(https://amzn.to/4iBF9zy)では下記のリンクが紹介リンクになります。
 
 ```
 https://www.amazon.co.jp/dp/4296206729?&linkCode=sl1&tag=schroneko-22&linkId=da9deaa9c92acb4eb7afa61b2589f6f6&language=ja_JP&ref_=as_li_ss_tl
